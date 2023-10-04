@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+}
+#container{
+    background-color: blueviolet;
+    border: 5px solid sienna;
+    height:270px;
+    width: 750px;
+    margin:auto;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: xx-large;
+}
+#btn{
+    margin: 25px auto auto 25px;
+}
+#input{
+    width: 100px;
+    margin: 25px auto;
+}
